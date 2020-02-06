@@ -1,0 +1,1 @@
+from jackthescraperapp import app
